@@ -34,9 +34,6 @@ def add_supply_to_winter_holidays(holiday_hash, supply)
    decorations << item
   end
 end
-
-holiday_hash[:spring][:memorial_day] << supply
-
 end
 
 
